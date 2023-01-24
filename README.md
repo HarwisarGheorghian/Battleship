@@ -1,1 +1,1 @@
-# Battleship
+# Connect 4
